@@ -1,0 +1,5 @@
+C:\Users\ПК\source\repos\Project4\Project4\x64\Release\Project4.vcxproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Project4\Project4\x64\Release\Project4.MyForm.resources
+C:\Users\ПК\source\repos\Project4\Project4\x64\Release\Project4.vcxproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Project4\x64\Release\WebView2Loader.dll
+C:\Users\ПК\source\repos\Project4\Project4\x64\Release\Project4.vcxproj.Up2Date
